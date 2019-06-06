@@ -35,6 +35,6 @@ public class ConsoleRunner implements ApplicationRunner{
 		String[] sourceArgs = args.getSourceArgs();
 		System.out.println(sourceArgs);
 		System.out.println(Arrays.asList(sourceArgs));
-		
+		System.out.println("ok git");
 	}
 }
